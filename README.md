@@ -1,3 +1,7 @@
+## Application preview
+
+![Company Knowledge Assistant showing a cited invoice-approval answer](docs/company-knowledge-assistant.png)
+
 # Company Knowledge RAG Assistant
 
 A local, citation-grounded AI assistant for searching company policies and procedures.
