@@ -1,0 +1,22 @@
+[
+  {"question":"How many PTO days do full-time employees receive?","expected_source":"employee_handbook.md"},
+  {"question":"How far ahead should a three-day vacation be requested?","expected_source":"employee_handbook.md"},
+  {"question":"How many unused vacation days carry over?","expected_source":"employee_handbook.md"},
+  {"question":"How many remote days are allowed each week?","expected_source":"employee_handbook.md"},
+  {"question":"When is an expense report due after travel?","expected_source":"travel_and_expense_policy.md"},
+  {"question":"What expenses require an itemized receipt?","expected_source":"travel_and_expense_policy.md"},
+  {"question":"Is premium airfare permitted?","expected_source":"travel_and_expense_policy.md"},
+  {"question":"Is an employee's normal commute reimbursed?","expected_source":"travel_and_expense_policy.md"},
+  {"question":"Who must approve a new vendor?","expected_source":"vendor_management.md"},
+  {"question":"How should a vendor bank account change be verified?","expected_source":"vendor_management.md"},
+  {"question":"How often are critical vendors reviewed?","expected_source":"vendor_management.md"},
+  {"question":"What are the four data classifications?","expected_source":"information_security.md"},
+  {"question":"How often is privileged access reviewed?","expected_source":"information_security.md"},
+  {"question":"What should I do if I click a phishing link?","expected_source":"information_security.md"},
+  {"question":"Can confidential information be pasted into a public AI tool?","expected_source":"information_security.md"},
+  {"question":"What fields are captured from an invoice?","expected_source":"accounts_payable.md"},
+  {"question":"How are duplicate invoices identified?","expected_source":"accounts_payable.md"},
+  {"question":"Who approves a $12,000 invoice?","expected_source":"accounts_payable.md"},
+  {"question":"When are approved invoices paid?","expected_source":"accounts_payable.md"},
+  {"question":"How long are invoice records retained?","expected_source":"accounts_payable.md"}
+]

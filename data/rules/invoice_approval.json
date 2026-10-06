@@ -1,0 +1,23 @@
+{
+  "policy_name": "Invoice approval thresholds",
+  "currency": "USD",
+  "source": "accounts_payable.md",
+  "section": "Approval Thresholds",
+  "rules": [
+    {
+      "minimum_exclusive": 0,
+      "maximum_inclusive": 5000,
+      "approvers": ["department manager"]
+    },
+    {
+      "minimum_exclusive": 5000,
+      "maximum_inclusive": 25000,
+      "approvers": ["department manager", "director"]
+    },
+    {
+      "minimum_exclusive": 25000,
+      "maximum_inclusive": null,
+      "approvers": ["department manager", "director", "vice president"]
+    }
+  ]
+}
